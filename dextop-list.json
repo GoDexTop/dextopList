@@ -2029,7 +2029,7 @@
             "address": "0x637Ecd6b33BD8d5A550939A2e6058Dd7Dc52812e",
             "symbol": "BAANA",
             "decimals": 18,
-            "logoURI": "https://bafybeieuaxpzcodkphli5wemzdbkbc3y3qttc24u7bx73ihjzkyas34yoe.ipfs.dweb.link?filename=baana.png"
+            "logoURI": "https://tokens.dextop.pro/tokens/0x637Ecd6b33BD8d5A550939A2e6058Dd7Dc52812e.png"
         },
         {
             "chainId": 369,
@@ -2037,7 +2037,7 @@
             "address": "0x62bd78d40A9FCb4D29F6fF183CFbcaf2f5ca9B52",
             "symbol": "STM",
             "decimals": 18,
-            "logoURI": "https://bafybeighl3zsv2uf25mv7ome6a3zlhalqfc4bgghjwy2xklanlyu4wqjqe.ipfs.dweb.link?filename=stm.png"
+            "logoURI": "https://tokens.dextop.pro/tokens/0x62bd78d40A9FCb4D29F6fF183CFbcaf2f5ca9B52.png"
         },
         {
             "chainId": 369,
@@ -2045,11 +2045,12 @@
             "address": "0xA9714fF503f673E1F093A6b8A6Df7A2156B8B34C",
             "symbol": "BKD",
             "decimals": 18,
-            "logoURI": "https://bafybeigycvbif7g63tlfvikcxt5jvjmpolwntw4ryxwwbikg6vpfqe3cdq.ipfs.dweb.link?filename=bkd.png"
+            "logoURI": "https://tokens.dextop.pro/tokens/0xA9714fF503f673E1F093A6b8A6Df7A2156B8B34C.png"
         }
     ],
     "logoURI": "https://tokens.dextop.pro/logo.png"
 }
+
 
 
 
