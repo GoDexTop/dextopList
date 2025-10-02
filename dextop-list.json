@@ -1,9 +1,9 @@
 {
-    "name": "PulseChain Token List",
+    "name": "DexTop Token List",
     "timestamp": "2025-09-01T00:00:00+00:00",
     "version": {
         "major": 39,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "tokens": [
@@ -2013,7 +2013,7 @@
             "address": "0x6F21950028418e0dFA840255daA1812200f7AB07",
             "symbol": "BASED",
             "decimals": 18,
-            "logoURI": "https://bafybeifzapg7gqmlviwbpvsyssnlvpllzpvxprsouibfm5d7a3nmstjydm.ipfs.dweb.link?filename=0x6F21950028418e0dFA840255daA1812200f7AB07.png"
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6F21950028418e0dFA840255daA1812200f7AB07.png"
         },
         {
             "chainId": 369,
@@ -2050,6 +2050,7 @@
     ],
     "logoURI": "https://tokens.dextop.pro/logo.png"
 }
+
 
 
 
