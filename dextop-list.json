@@ -2,7 +2,7 @@
     "name": "DexTop Token List",
     "timestamp": "2026-01-01T00:00:00+00:00",
     "version": {
-        "major": 40,
+        "major": 41,
         "minor": 0,
         "patch": 0
     },
@@ -71,15 +71,6 @@
             "decimals": 18,
             "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d.png"
         },
-        {
-            "name": "Pepe Token",
-            "symbol": "PEPE",
-            "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
-            "chainId": 369,
-            "decimals": 18,
-            "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x6982508145454Ce325dDbE47a25d4ec3d2311933.png"
-        },
-        
         {
             "name": "A Free Game Of DUME",
             "symbol": "DUME",
@@ -216,6 +207,7 @@
     ],
     "logoURI": "https://tokens.dextop.pro/logo.png"
 }
+
 
 
 
