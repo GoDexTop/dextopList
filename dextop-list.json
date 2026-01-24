@@ -2,7 +2,7 @@
     "name": "DexTop Token List",
     "timestamp": "2026-01-01T00:00:00+00:00",
     "version": {
-        "major": 42,
+        "major": 43,
         "minor": 0,
         "patch": 0
     },
@@ -72,14 +72,6 @@
             "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d.png"
         },
         {
-            "name": "A Free Game Of DUME",
-            "symbol": "DUME",
-            "address": "0x63bf22258aB005b9FB5087A2349701618BedbdA0",
-            "chainId": 369,
-            "decimals": 9,
-            "logoURI": "https://bafybeibn76otrocalt2dyn6vmpp4jbqnbixvf67jigb6qsc54me5tlcibu.ipfs.nftstorage.link/dume.jpg"
-        },
-        {
             "name": "PulseX",
             "symbol": "PLSX",
             "address": "0x95B303987A60C71504D99Aa1b13B4DA07b0790ab",
@@ -94,14 +86,6 @@
             "chainId": 369,
             "decimals": 8,
             "logoURI": "https://tokens.dextop.pro/tokens/0xb17D901469B9208B17d916112988A3FeD19b5cA1.png"
-        },
-        {
-            "name": "Kilobyte Token",
-            "symbol": "KB",
-            "address": "0xaC55cd59F4d97c50FBeC9b0812352e15BC5d2e59",
-            "chainId": 369,
-            "decimals": 18,
-            "logoURI": "https://bafybeihhucklcvdhalyxsuqfw6ujbxgu52xkf72dnmivvhw5mrw4e4vuse.ipfs.nftstorage.link/kilobyte-logo.FaNPUq7F.png"
         },
         {
             "name":"Richard's Only Brother",
@@ -202,6 +186,7 @@
     ],
     "logoURI": "https://tokens.dextop.pro/logo.png"
 }
+
 
 
 
