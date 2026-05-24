@@ -3,7 +3,7 @@
     "timestamp": "2026-01-01T00:00:00+00:00",
     "version": {
         "major": 46,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "tokens": [
@@ -32,7 +32,7 @@
             "logoURI": "https://tokens.dextop.pro/tokens/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39.png"
         },
         {
-            "name": "USDC from Eth",
+            "name": "USDC-FETH",
             "symbol": "USDC",
             "address": "0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07",
             "chainId": 369,
@@ -40,7 +40,7 @@
             "logoURI": "https://bafybeif7p3lwn44s6siduzasdy3jr5stq72xe7qqd6msbzeuzjmxhdlqdy.ipfs.dweb.link?filename=0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07.png"
         },
         {
-            "name": "Dai from Eth",
+            "name": "Dai-FETH",
             "symbol": "DAI",
             "address": "0xefD766cCb38EaF1dfd701853BFCe31359239F305",
             "chainId": 369,
@@ -80,7 +80,7 @@
             "logoURI": "https://tokens.dextop.pro/tokens/0x95B303987A60C71504D99Aa1b13B4DA07b0790ab.png"
         },
         {
-            "name": "Wrapped BTC from Ethereum",
+            "name": "WBTC-FETH",
             "symbol": "WBTC",
             "address": "0xb17D901469B9208B17d916112988A3FeD19b5cA1",
             "chainId": 369,
@@ -120,7 +120,7 @@
             "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xCA35638A3fdDD02fEC597D8c1681198C06b23F58.png"
         },
         {
-            "name": "WETH From Ethereum",
+            "name": "WETH-FETH",
             "chainId": 369,
             "symbol": "WETH",
             "decimals": 18,
@@ -136,7 +136,7 @@
             "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x6982508145454Ce325dDbE47a25d4ec3d2311933.png"
         },
         {
-            "name": "ChainLink from Ethereum",
+            "name": "ChainLink-FETH",
             "chainId": 369,
             "symbol": "LINK",
             "decimals": 18,
@@ -144,7 +144,7 @@
             "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xEe2D275Dbb79c7871F8C6eB2A4D0687dD85409D1.png"
         },
         {
-            "name": "Tether USD",
+            "name": "Tether-FETH",
             "chainId": 369,
             "symbol": "USDT",
             "decimals": 6,
