@@ -3,7 +3,7 @@
     "timestamp": "2026-01-01T00:00:00+00:00",
     "version": {
         "major": 46,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "tokens": [
@@ -149,7 +149,7 @@
             "symbol": "USDT",
             "decimals": 6,
             "address": "0x0Cb6F5a34ad42ec934882A05265A7d5F59b51A2f",
-            "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xdAC17F958D2ee523a2206206994597C13D831ec7.png"
+            "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x0Cb6F5a34ad42ec934882A05265A7d5F59b51A2f.png"
         },
         {
             "name": "Future T.I.M.E. Dividend from Ethereum",
